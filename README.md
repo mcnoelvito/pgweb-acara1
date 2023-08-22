@@ -5,7 +5,7 @@ Nama    : Michael Noelvito Husodo
 NIM     : 22/497277/SV/21111  
 Kelas   : A  
 Avatar  :    
-<img src="man.png" width="100">
+<img src="man.png" width="200">
 
 
 **Web GIS** adalah
