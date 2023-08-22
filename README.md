@@ -10,7 +10,7 @@ Avatar  :
 
 **Web GIS** adalah
 __sebuah__ ***web***   yang tidak memerlukan perangkat lunak khusus yang diinstal pada perangkat komputer, dapat diakses darimana saja dengan menggunakan browser yang terkoneksi dengan internet, dapat menampilkan peta yang interaktif, dan jangkauan pengguna lebih luas tidak terbatas perangkat ataupun tempat selama pengguna terkoneksi dengan internet
->Semoga membantu!
+>Semoga membantu! Jangan dihafal
 
 Urutan transfer perubahan file dari lokal komputer kita ke repositori pada Git antara lain:
 1. *git add*
