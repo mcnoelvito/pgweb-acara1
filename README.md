@@ -5,8 +5,9 @@ Nama    : Michael Noelvito Husodo
 NIM     : 22/497277/SV/21111  
 Kelas   : A  
 Avatar  :    
-<img src="man.png" width="200">
-
+<img src="man.png" width="200">  
+<img src="instagram.png" width="50">   
+[Instagram](https://www.instagram.com/michaelnoelvito/)
 
 **Web GIS** adalah
 __sebuah__ ***web***   yang tidak memerlukan perangkat lunak khusus yang diinstal pada perangkat komputer, dapat diakses darimana saja dengan menggunakan browser yang terkoneksi dengan internet, dapat menampilkan peta yang interaktif, dan jangkauan pengguna lebih luas tidak terbatas perangkat ataupun tempat selama pengguna terkoneksi dengan internet
